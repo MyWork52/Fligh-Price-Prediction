@@ -1,1 +1,1 @@
-# Fligh-Price-Prediction
+# Flight-Price-Prediction
